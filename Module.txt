@@ -7,5 +7,5 @@ OrchardVersion: 1.9
 Description: Sends HttpRequestValidationExceptions to a friendly error page
 Features:
     HttpRequestValidationExceptionFilter:
-        Description: Description for feature HttpRequestValidationExceptionFilter.
+        Description: Sends HttpRequestValidationExceptions to a friendly error page
 		Category: Security
