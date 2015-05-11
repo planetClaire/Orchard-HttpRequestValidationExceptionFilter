@@ -1,0 +1,11 @@
+﻿Name: HttpRequestValidationExceptionFilter
+AntiForgery: enabled
+Author: Zeta Tech
+Website: http://zeta.com.au
+Version: 1.0
+OrchardVersion: 1.9
+Description: Sends HttpRequestValidationExceptions to a friendly error page
+Features:
+    HttpRequestValidationExceptionFilter:
+        Description: Description for feature HttpRequestValidationExceptionFilter.
+		Category: Security
